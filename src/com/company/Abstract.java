@@ -3,3 +3,4 @@ package com.company;
 public abstract class Abstract {
     protected abstract void set_car(Car.Color color, String model, String TypeofBox, int capacity);
 }
+//aaaaaaaaaaaaaaaaaaaaa
